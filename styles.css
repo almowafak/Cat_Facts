@@ -1,0 +1,23 @@
+body {
+  background-color: #e6ffee;
+}
+
+h1 {
+  font-size: 80px;
+  color: green;
+  font-style: italic;
+  text-align: center;
+  text-decoration: #009933 underline;
+}
+
+h2 {
+  font-size: 30px;
+  color: #339933;
+  font-weight: bold;
+  text-decoration: #009933 underline;
+}
+
+.blue {
+  color: blue;
+  cursor: pointer;
+}
